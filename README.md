@@ -1,2 +1,9 @@
-# arduino_security_system
-Resources for a Arduino-based workshop on building a "high-tech" security system using an ultrasonic range sensor
+# Workshop on building an Arduino-based security sensor
+
+Resources for a Arduino-based workshop on building a security system using an ultrasonic range sensor and buzzer.
+
+Click on the file "security_system.ino" above to access the code for the device.
+
+The pdf worksheets describe the steps in building the circuit and programming the device.
+
+You can watch a video demo of the final project here (TBC).
