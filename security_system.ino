@@ -72,6 +72,8 @@ void setup() {
 
   pinMode(13, OUTPUT); // switch off on-board LED for now
   digitalWrite(13, LOW);
+  
+  delay(50); // let the sensor stabilise
 }
 
 // This function is called repeatedly by the program
