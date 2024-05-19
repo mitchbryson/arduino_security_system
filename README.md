@@ -6,4 +6,3 @@ Click on the file "security_system.ino" above to access the code for the device.
 
 The pdf worksheets describe the steps in building the circuit and programming the device.
 
-You can watch a video demo of the final project here (TBC).
